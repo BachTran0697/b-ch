@@ -29,14 +29,6 @@ nav{
 .nav.nav-tabs a:hover{
   opacity: 0.5;
 }
-  .footer {
-    padding: 10px;
-    text-align: center;
-    margin-top: 700px;
-  }
-  .search{
-    gap:inherit;
-  }
   #outer{
     position: relative;
     overflow: auto;
@@ -60,6 +52,5 @@ nav{
   footer{
     background-color: black;
     color: white;
-    padding-top: 5px;
-    padding-left: 10%;
+    padding-left: 15px;
   }
